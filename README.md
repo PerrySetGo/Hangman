@@ -1,32 +1,29 @@
-# _{Application Name}_
+# _Hangman_
 
-##### _{Brief description of application}, {Date of current version}_
+##### _An app that simulates some aspects of the traditional Hangman game. _
 
-#### By _**{List of contributors}**_
+#### By _**Perry Eising and Molly Waggett**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_A version of the classic game "Hangman". _
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone or fork from github
+* Run on gradle or on a server
+* Open in your browser and navigate to localhost:4567 to run
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+Java, Velocity Templating, HTML and CSS
 
 ### Legal
 
 *{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 _**Perry Eising and Molly Waggett**_
 
 This software is licensed under the MIT license.
 
